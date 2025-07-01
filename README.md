@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Pruthviraj Rathod</h1>
+<h1 align="center">Hi 👋, I'm Bhakti</h1>
 <h3 align="center">A passionate frontend developer and</h3>
 
 - 🔭 I’m currently working on **personal portfolio website**
 - 🌱 I’m currently learning **DAS, Web development, Python**
 - 👯 I’m looking to collaborate on **virtual assistant**
 - 🤝 I’m looking for help with **clg Application**
-- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/)
+- 👨‍💻 All of my projects are available at [LinkedIn]([https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/](https://www.linkedin.com/in/bhakti-bhoskar-a284002a9/?originalSubdomain=in))
 - 💬 Ask me about **C, C++, HTML, CSS, JS, JAVA, PYTHON, ANDROID**
 - 📫 How to reach me **pruthvirajrathod645@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/" target="blank">
+  <a href="[https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/](https://www.linkedin.com/in/bhakti-bhoskar-a284002a9/?originalSubdomain=in)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/" target="blank">
