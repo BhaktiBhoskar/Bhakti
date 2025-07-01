@@ -7,7 +7,7 @@
 - 🤝 I’m looking for help with **clg Application**
 - 👨‍💻 All of my projects are available at [LinkedIn]([https://www.linkedin.com/in/pruthviraj-rathod-14a9302b0/](https://www.linkedin.com/in/bhakti-bhoskar-a284002a9/?originalSubdomain=in))
 - 💬 Ask me about **C, C++, HTML, CSS, JS, JAVA, PYTHON, ANDROID**
-- 📫 How to reach me **pruthvirajrathod645@gmail.com**
+- 📫 How to reach me **bhoskarbhakti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
