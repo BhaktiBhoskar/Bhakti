@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhakti</h1>
-<h3 align="center">A passionate Frontend Developer & Tech Enthusiast</h3>
+<h3 align="center">A passionate Software Developer & Tech Enthusiast</h3>
 
 - 🔭 I’m currently working on **my personal portfolio website**
-- 🌱 I’m currently learning **DSA, Web Development, Python**
-- 👯 I’m looking to collaborate on **Virtual Assistant Projects**
+- 🌱 I’m currently learning **DSA, Web Development, java**
+- 👯 I’m looking to collaborate on **Smart attendence management system using real-time face recognition**
 - 🤝 I’m looking for help with **College Application Systems**
 - 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/bhakti-bhoskar-a284002a9/)
 - 💬 Ask me about **C, C++, HTML, CSS, JS, Java, Python, Android**
